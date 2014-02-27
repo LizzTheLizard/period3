@@ -104,7 +104,7 @@ body {
   width: 65%;
 }
 
-.article{
+.article1{
   padding: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -113,6 +113,27 @@ body {
   background-color: silver;
   border-radius: 10px;
    float: left;
+}
+.article2{
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height:350%;
+  width:50%;
+  background-color: silver;
+  border-radius: 10px;
+   float: left;
+}
+.article3{
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height:350%;
+  width:50%;
+  background-color: silver;
+  border-radius: 10px;
+   float: left;
+   background: url(images/bardockbg.jpg) center bottom;
 }
 
 .article_header {
