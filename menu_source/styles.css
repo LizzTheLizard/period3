@@ -113,6 +113,7 @@ body {
   background-color: silver;
   border-radius: 10px;
    float: left;
+    background: url(images/gokubg.jpg)center;
 }
 .article2{
   padding: 20px;
@@ -123,6 +124,7 @@ body {
   background-color: silver;
   border-radius: 10px;
    float: left;
+    background: url(images/villainsbg.jpg)center;
 }
 .article3{
   padding: 20px;
@@ -133,7 +135,7 @@ body {
   background-color: silver;
   border-radius: 10px;
    float: left;
-   background: url(images/bardockbg.jpg) center bottom;
+   background: url(images/bardockbg.jpg)center;
 }
 
 .article_header {
