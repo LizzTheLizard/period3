@@ -104,6 +104,17 @@ body {
   width: 65%;
 }
 
+.article{
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height:350%;
+  width:50%;
+  background-color: silver;
+  border-radius: 10px;
+   float: left;
+    background: url(images/dbbg.jpg)center;
+;color:grey;}
 .article1{
   padding: 20px;
   margin-top: 20px;
@@ -125,6 +136,7 @@ body {
   border-radius: 10px;
    float: left;
     background: url(images/villainsbg.jpg)center;
+    color:white;
 }
 .article3{
   padding: 20px;
