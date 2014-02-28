@@ -78,17 +78,6 @@ body {
   background-color: silver;
 }
 
-#footer{
-  background-color: silver;
-  border-radius: 10px;
-  padding:10px;
-  height:200%;
-  width:422px;
-  
-}
-
-
-
 #aside{
   height:100%;
   width:25%;
@@ -109,7 +98,7 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
   height:350%;
-  width:50%;
+  width:60%;
   background-color: silver;
   border-radius: 10px;
    float: left;
@@ -119,19 +108,20 @@ body {
   padding: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
-  height:350%;
-  width:50%;
+  height:565%;
+  width:60%;
   background-color: silver;
   border-radius: 10px;
    float: left;
     background: url(images/gokubg.jpg)center;
+    color:white;
 }
 .article2{
   padding: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
   height:350%;
-  width:50%;
+  width:60%;
   background-color: silver;
   border-radius: 10px;
    float: left;
@@ -143,7 +133,7 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
   height:350%;
-  width:50%;
+  width:60%;
   background-color: silver;
   border-radius: 10px;
    float: left;
